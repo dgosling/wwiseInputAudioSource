@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4090997213	PlayAudioInput			\Default Work Unit\PlayAudioInput	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	985987111	Motion Factory Bus			\Default Work Unit\Motion Factory Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	921055597	TestInput	Wwise Audio Input		\Actor-Mixer Hierarchy\Default Work Unit\AudioInputTest\TestInput	
+
